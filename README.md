@@ -6,8 +6,8 @@ This notebook extracts insights from an Ecommerce database through SQL queries a
 ---
 
 ## 🔗 View Project
-[![View Project](https://img.shields.io/badge/View%20Project-Notebook-pink?style=for-the-badge&logo=Notebook)](https://github.com/amar4542/E-Commerce/blob/main/E-Commerce.ipynb)  
-[![View Dataset ](https://img.shields.io/badge/View-Dataset-skyblue?style=for-the-badge&logo=image)](https://drive.google.com/drive/folders/12dvYxsUZ7XUwlrXn6NTz6wwt7-0mdHsV?usp=sharing
+[![View Project](https://img.shields.io/badge/View%20Project-Notebook-orange?style=for-the-badge&logo=Notebook)](https://github.com/amar4542/E-Commerce/blob/main/E-Commerce.ipynb)  
+[![View Dataset ](https://img.shields.io/badge/View-Dataset-green?style=for-the-badge&logo=image)](https://drive.google.com/drive/folders/12dvYxsUZ7XUwlrXn6NTz6wwt7-0mdHsV?usp=sharing
 )  
 
 ---
