@@ -45,5 +45,6 @@ This notebook extracts insights from an Ecommerce database through SQL queries a
 ---
 ## 🔗 View Project
 [![View Project](https://img.shields.io/badge/View%20Project-Notebook-orange?style=for-the-badge&logo=Notebook)](https://github.com/amar4542/E-Commerce/blob/main/E-Commerce.ipynb)  
-[![⬇️ Download Template](https://img.shields.io/badge/Download-.pbit-blue?style=for-the-badge&logo=files)](https://raw.githubusercontent.com/amar4542/E-Commerce/main/E-Commerce.ipynb)  
+[![⬇️ Download Template](https://img.shields.io/badge/Download-.ipynb-blue?style=for-the-badge&logo=files)](https://raw.githubusercontent.com/amar4542/E-Commerce/main/E-Commerce.ipynb?download=1
+)  
 
