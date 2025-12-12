@@ -44,6 +44,6 @@ This notebook extracts insights from an Ecommerce database through SQL queries a
 
 ---
 ## 🔗 View Project
-[![View Project](https://img.shields.io/badge/View%20Project-PowerBI-orange?style=for-the-badge&logo=power-bi)](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency/blob/main/zidio%20second%20project.pbit)  
+[![View Project](https://img.shields.io/badge/View%20Project-PowerBI-orange?style=for-the-badge&logo=power-bi)](https://github.com/amar4542/E-Commerce/blob/main/E-Commerce.ipynb)  
 [![⬇️ Download Template](https://img.shields.io/badge/Download-.pbit-blue?style=for-the-badge&logo=files)](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency/raw/main/zidio%20second%20project.pbit)  
 
